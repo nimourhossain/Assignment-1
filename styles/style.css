@@ -141,6 +141,7 @@ main{
     background-color: white;
     margin-top: 32px;
     border-color: #888888;
+    text-decoration: none;
 }
 .imp{
     display: flex;
@@ -211,7 +212,7 @@ main{
 }
 .thr{
     max-width: 364px;
-    background-color: #fcefed;
+    background-color: #fff4f2;
     padding: 40px;
     border-radius: 16px;
     margin-top: 48px;
@@ -238,7 +239,7 @@ main{
 }
 .thr1{
     max-width: 364px;
-    background-color: #e9eef8;
+    background-color: #f2f7ff;
     padding: 40px;
     border-radius: 16px;
     margin-top: 48px;
@@ -246,7 +247,7 @@ main{
 }
 .thr2{
     max-width: 364px;
-    background-color: #fcf7e2;
+    background-color: #fffcef;
     padding: 40px;
     border-radius: 16px;
     margin-top: 48px;
@@ -282,6 +283,12 @@ main{
 .thrr-img1{
     height: 95px;
     width: 108px;
+    margin-right: 24px;
+    
+}
+.thrr-img2{
+    height: 95px;
+    width: 145px;
     margin-right: 24px;
     
 }
