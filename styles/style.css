@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    font-family: "Azeret Mono", monospace;
+}
+
+/* Header Section */
+
+
+nav ul li {
+    list-style: none;
+
+}
+
+nav li a {
+    text-decoration: none;
+}
+
+nav ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* Shared section */
+.dark {
+    color: #0D1321;
+}
+
+.btn{
+    margin-right: 150px;
+    background-color: white;
+    border-radius: 8px;
+     padding: 17px 24px;
+     font-weight: 600;
+     color:#0D1321;
+}
+
+/* Banner Section */
+.banner{
+    margin-top: 48px;
+    position: relative;
+  
+}
+.img2{
+    position: absolute;
+    
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 240px;
+    height: 240px;
+}
+.banner-title{
+    top:40%;
+    position: absolute;
+    margin-left: 200px;
+    
+    text-align: center;
+    font-weight:bolder;
+    font-size: 48px;
+}
+.para{
+    top:65%;
+    position: absolute;
+    margin-left: 279px;
+    
+    text-align: center;
+    font-weight:200px;
+    font-size: 16px;
+}
+.btn1{
+    top:85%;
+    position: absolute;
+    margin-left:580px;
+    
+    text-align: center;
+    font-weight:200px;
+    font-size: 16px;
+    background-color: #0D1321;
+    border-radius: 8px;
+     padding: 21px 24px;
+     font-weight: 600;
+     color: white;
+     
+}
+
