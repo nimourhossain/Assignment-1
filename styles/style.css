@@ -26,6 +26,10 @@ nav ul {
 .dark {
     color: #0D1321;
 }
+.namee{
+    font-size: 28px;
+    font-weight: bolder;
+}
 
 .btn{
     margin-right: 150px;
@@ -34,6 +38,8 @@ nav ul {
      padding: 17px 24px;
      font-weight: 600;
      color:#0D1321;
+     font-size: 20px;
+     
 }
 
 /* Banner Section */
@@ -72,7 +78,7 @@ nav ul {
 .btn1{
     top:85%;
     position: absolute;
-    margin-left:580px;
+    margin-left:570px;
     
     text-align: center;
     font-weight:200px;
@@ -85,3 +91,105 @@ nav ul {
      
 }
 
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+    
+    
+}
+.second-bg{
+    background-color: #fafafa;
+    padding: 80px 97px;
+    border-radius: 16px;
+    margin-top: 74px;
+}
+.second-head{
+    font-size: 32px;
+    font-weight: bolder;
+    text-align: center;
+}
+.para1{
+    font-size: 16px;
+    font-weight: 200;
+    text-align: center;
+}
+.imp{
+    background-color: white;
+    border-radius: 16px;
+    margin-top: 48px;
+}
+.imp1{
+    padding: 48px;
+}
+.j{
+    font-size: 24px;
+    font-weight: bold;
+    color:#515153;
+}
+.para2{
+    font-size: 16px;
+    font-weight: 400;
+    color:#0D1321;
+}
+.learn{
+    font-size:20px;
+    font-weight: 600;
+    color:#0D1321;
+    padding: 12px 20px;
+    background-color: white;
+    margin-top: 32px;
+    border-color: #888888;
+}
+.imp{
+    display: flex;
+    justify-content: space-between;
+}
+.cm{
+    height: 240px;
+    width: 275px;
+    margin-top: 48px;
+    margin-right: 48px;
+    margin-bottom: 48px;
+}
+.cm2{
+    height: 240px;
+    width: 240px;
+    margin-top: 48px;
+    margin-left: 48px;
+    margin-bottom: 48px;
+}
+.cm3{
+    height: 240px;
+    width: 240px;
+    margin-top: 48px;
+    margin-right: 48px;
+    margin-bottom: 48px;
+}
+.third-bg{
+    
+    max-width: 852px;
+    margin: 0 auto;
+}
+.third-title{
+    text-align: center;
+    color:#0D1321;
+    font-size: 32px;
+    font-weight: bolder;
+    margin-top: 90px;
+}
+.para3{
+    text-align: center;
+    color:#0D1321;
+    font-size: 16px;
+    font-weight: 400;
+}
+.vid{
+    margin-top: 45px;
+    border-radius: 16px;
+   justify-content: center;
+   display: flex;
+   align-items: center;
+ margin-left: -70px;
+    
+    
+}
