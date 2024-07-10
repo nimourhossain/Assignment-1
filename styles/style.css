@@ -285,18 +285,6 @@ main{
     margin-right: 24px;
     
 }
-.thrr-img2
-{
-    height: 88px;
-    width: 144px;
-    margin-right: 24px;
-    
-}
-.thrr-img3{
-    height: 108px;
-    width: 108px;
-    margin-right: 24px;
-}
 .two-head{
     font-size: 24px;
     font-weight: bolder;
@@ -378,10 +366,10 @@ main{
     margin-left: 16px;
     width: 120px;
    height: 57px;
-    padding:20px 20px;
+   
     border-radius: 8px;
     font-size: 20px;
-    font-weight: 800;
+    font-weight: 600;
     text-align: center;
     cursor: pointer;
     
